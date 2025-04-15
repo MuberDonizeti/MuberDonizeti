@@ -34,7 +34,7 @@
 
 ---
 
-![Muber's GitHub stats](https://github-readme-stats.vercel.app/api?username=muberdonizeti&show_icons=true&theme=tokyonight)
+![Muber's GitHub stats](https://github-readme-stats.vercel.app/api?username=muberdonizeti&show_icons=true&theme=tokyonight&include_all_commits=True&locale=pt-br)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muberdonizeti&layout=compact&theme=tokyonight)
 
 ---
